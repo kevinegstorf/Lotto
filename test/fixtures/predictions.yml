@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  weekly_numbers: 2015-05-02 16:28:31
+  prediction_numbers: 1
+  prediction_color: MyString
+  real_numbers: 1
+  real_color: MyString
+
+two:
+  weekly_numbers: 2015-05-02 16:28:31
+  prediction_numbers: 1
+  prediction_color: MyString
+  real_numbers: 1
+  real_color: MyString
